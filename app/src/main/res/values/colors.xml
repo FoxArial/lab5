@@ -2,4 +2,7 @@
 <resources>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+    <color name="bg">#C3FFB9</color>
+    <color name="bg_log_butt">#9ADFF4</color>
+    <color name="bg_signin_butt">#0086B0</color>
 </resources>
